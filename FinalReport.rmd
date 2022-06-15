@@ -71,10 +71,10 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-I reject the null hypothesis, the aids drug was actually counter productive the chances of getting these results are 7 out of 10,000 if there was no difference 
+I reject the null hypothesis, the aids drug was actually counter productive the chances of getting these results are 7 out of 10,000 if there was no difference.  
 
 # Discussion and Conclusion
 
-
+The results that we got from the drug were unexpected since with the results we got the drug was actually counter productive. The people that took the drug had a higher percentage of getting aids compared to the people that took the placebo. 
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
